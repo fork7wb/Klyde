@@ -1,5 +1,10 @@
-# Klyde-
-Bot discord multifonctions, fonctions de Protection de serveur, gestion du serveur, raid, nuker et commandes personnalisées.
+# Mon Projet
 
-[![Description de l'image]("C:\Users\rip\Downloads\klyde.jpg")](https://github.com/fork7wb/Klyde-)
+Bienvenue dans le projet Kylde
+
+## Bot Discord Multifonctions
+
+[![Logo du Bot](images/logo.png)](https://lien/vers/votre/bot)
+
+Bot Discord multifonctions, fonctions de protection de serveur, gestion du serveur, raid, nuker et commandes personnalisées.
 
